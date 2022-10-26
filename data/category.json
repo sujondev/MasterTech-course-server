@@ -1,22 +1,22 @@
 [
     {
-        "id": "1",
+        "id": "01",
         "name": "Language Courses"
     },
     {
-        "id": "2",
+        "id": "02",
         "name": "Digital marketing"
     },
     {
-        "id": "3",
+        "id": "03",
         "name": "Programming courses"
     },
     {
-        "id": "4",
+        "id": "04",
         "name": "Ethical Hacking"
     },
     {
-        "id": "5",
+        "id": "05",
         "name": "Business Courses"
     }
 ]

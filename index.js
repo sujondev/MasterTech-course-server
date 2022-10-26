@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
     res.send('server test successful')
 })
 
-app.get('/categroies/:id', (req, res) => {
+app.get('/categroies', (req, res) => {
     res.send(categroies)
 })
 
